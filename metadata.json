@@ -1,0 +1,8 @@
+{
+  "name": "FlowCRM",
+  "description": "An AI-powered CRM SaaS for freelancers and small teams to manage leads, contacts, deals, pipelines, and tasks with automated AI workspace tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
